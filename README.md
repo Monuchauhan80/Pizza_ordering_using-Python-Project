@@ -1,3 +1,4 @@
+pizza ordering app it is a similar to food order and delivery app.
 # Pizza_ordering_using-Python-Project
 
 from tkinter import *
